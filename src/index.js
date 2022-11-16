@@ -1,1 +1,1 @@
-import sheet from './styles.css' assert {type: 'css'};
+import * as sheet from './styles.css';

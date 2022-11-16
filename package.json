@@ -9,6 +9,9 @@
     "start": "webpack serve --open",
     "build": "webpack"
   },
+  "babel": {
+    "plugins": ["@babel/plugin-syntax-import-assertions"]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dialite/Leaderboard.git"
