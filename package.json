@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dialite/Leaderboard#readme",
   "devDependencies": {
+    "@babel/plugin-syntax-import-assertions": "^7.20.0",
     "babel-cli": "^6.26.0",
     "babel-eslint": "^10.1.0",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
