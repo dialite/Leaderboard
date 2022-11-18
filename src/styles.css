@@ -132,10 +132,10 @@ section {
 
 .name {
   margin-bottom: 10px;
-  border-radius: 20% 10%;
+  border-radius: 10%;
 }
 
 .score {
   margin-bottom: 10px;
-  border-radius: 10% 20%;
+  border-radius: 10%;
 }
