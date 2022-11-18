@@ -40,13 +40,6 @@ section {
   font-weight: bold;
 }
 
-.scores {
-  min-height: 50px;
-  border: solid 2px black;
-  margin-top: 0;
-  padding-left: 0;
-}
-
 .recent-scores p {
   font-size: 24px;
   font-weight: bold;
@@ -66,7 +59,6 @@ section {
 
 .scores-li {
   list-style: none;
-  margin-left: 10px;
 }
 
 .scores-li:nth-child(odd) {
@@ -140,8 +132,10 @@ section {
 
 .name {
   margin-bottom: 10px;
+  border-radius: 20% 10%;
 }
 
 .score {
   margin-bottom: 10px;
+  border-radius: 10% 20%;
 }
