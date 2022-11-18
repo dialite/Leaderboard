@@ -1,14 +1,17 @@
 import './styles.css';
+import img from './leaderboard.jpg';
 
 const player = document.querySelector('.name');
 const score = document.querySelector('.score');
 const submitbtn = document.querySelector('.submit');
 const refreshbtn = document.querySelector('.refresh');
 const scoresdiv = document.querySelector('.scores-div');
+const background = document.querySelector('html');
 const msg = document.querySelector('#message');
 const gameid = localStorage.getItem('scores');
 const api = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/';
 
+background.style.backgroundImage = `url('${img}')`;
 const hide = () => {
   msg.classList.remove('active');
   msg.classList.remove('empty');
