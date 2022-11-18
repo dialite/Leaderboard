@@ -40,11 +40,6 @@ section {
   font-weight: bold;
 }
 
-.recent-scores p {
-  font-size: 24px;
-  font-weight: bold;
-}
-
 .scores-div {
   min-height: 50px;
   border: solid 2px rgb(83, 80, 80);
