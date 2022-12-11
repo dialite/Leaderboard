@@ -16,9 +16,9 @@ This is a simple app that allows users to refresh and submit name and score.
 - CSS 3
 - JAVASCRIPT ES6
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link]( https://dialite.github.io/Leaderboard/dist)
+[Demo]( https://dialite.github.io/Leaderboard/dist)
 
 ## Getting Started
 
