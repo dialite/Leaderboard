@@ -18,7 +18,7 @@ This is a simple app that allows users to refresh and submit name and score.
 
 ## Live Demo (if available)
 
-[Live Demo Link]( https://dialite.github.io/Leaderboard/)
+[Live Demo Link]( https://dialite.github.io/Leaderboard/dist)
 
 ## Getting Started
 
